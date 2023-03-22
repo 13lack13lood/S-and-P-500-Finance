@@ -1,0 +1,8 @@
+.text-field, .text-field .viewport, .text-field .content {
+	-fx-background-color: transparent ;
+	-fx-text-inner-color: white;
+}
+
+#menuButton {
+	-fx-background-color: transparent ;
+}
