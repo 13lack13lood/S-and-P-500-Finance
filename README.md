@@ -1,8 +1,13 @@
 # S&P 500 Finance
 
-Stock portfolio application focused on the the Standards and Poors 500 index that pulls current data from Google
+Stock portfolio application focused on the the Standards and Poors 500 index that pulls current data from Google's REST API
 
-Final IB Comp Sci IA
+Made using Google Drive API, Java, JavaFX, Maven, Git
+
+### Current Features
+  - Displays performance of the most popular S&P 500 stocks in an easy to read heat map
+  - Displays current market trends as well as the performance of the index itself
+  - Provides detailed information and graphs about every stock on the index
 
 ![ics ia (1)](https://github.com/13lack13lood/S-and-P-500-Finance/assets/44007891/d3246b22-1b17-48ff-81df-6f36edce3e3c)
 
